@@ -5,7 +5,7 @@
     a. The first commit's message should be: ```"First commit."``` In that commit there should be only 1 file: HelloWorld.txt. The contents is one line that says: ```"Hello World!"```  
     b. The second commit's message should be: ```"Second commit."``` This commit should hold 2 files: ```HelloWorld.txt``` - change the contents of this file to be: ```"Hello World, I love CodeBase!"```. The second file should be named ```MentoredProject.txt``` and its contents should be one line that says: ```"The Mentored Project is the best."```
 3. DM me a link to the Github repo. Here is an example of what the final repo should look like: <https://github.com/bdeleonardis1/Week1PHW/>
-4. **Deliverable** Make sure you understand what the following commands do: ```git clone```, ```git add```, ```git commit```, ```git push``` and ```git status```. If any of these are confusing to you consult the resources section at the end of the document.
+4. **Deliverable:** Make sure you understand what the following commands do: ```git clone```, ```git add```, ```git commit```, ```git push``` and ```git status```. If any of these are confusing to you consult the resources section at the end of the document.
 
 ##### If you feel reasonably comfortable with git, I recommend that you try to complete the assignment on your own (it will probably go faster). If you've never used git before I recommend going through guide below, but feel free to try to google around to figure it out.
 
