@@ -31,9 +31,9 @@ Git is a version control system. Version control systems keep track of changes t
 
 ### Your first commit
 1. cd into the repository you just cloned (it will be in a folder called <repository name>)
-2. Create the ```HelloWorld.txt``` file 
+2. Create the ```HelloWorld.txt``` file  
     a. To do this quickly just type: ```touch HelloWorld.txt``` in your terminal
-3. Write ```Hello World!``` in this file
+3. Write ```Hello World!``` in this file  
     a. To do this quicky type ```echo "Hello World!" > HelloWorld.txt```
 4. Run ```git add .``` - This tells git to start tracking all the files in your current folder  
     a. Alternatively, you could run ```git add <filename>``` to only add the file, or ```git add -A``` to add all of the files in the repo
