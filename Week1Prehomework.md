@@ -25,8 +25,8 @@ Git is a version control system. Version control systems keep track of changes t
 ### Clone the repository to your machine
 1. Open up a terminal (for Windows users terminal = git bash)
 2. Navigate (by using the cd command) to the parent folder where you want to store this repo (you should probably create a CodeBase folder)
-3. Run git clone <insert the url under quick setup after you created the repository>
-    a. The url should look something like *https://github.com/<your_username>/<your_repository name>.git*
+3. Run git clone <insert the url under quick setup after you created the repository>  
+    a. The url should look something like *github.com/<your_username>/<your_repository name>.git*
 
 
 ### Your first commit
